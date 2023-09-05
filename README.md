@@ -1,5 +1,6 @@
 <img align="right" width="350em" height="590em" src="https://raw.githubusercontent.com/gist/czr125/a443bf9072a90b1507368bda27e2fac1/raw/d02e3527f803325f14c15278558e60d3d3572316/githubcard.svg"/>
-## Hi I'm Cezar Mutran ✌️
+<h1 align="left"> Hi I'm Cezar Mutran ✌️</h1>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=czr125&color=yellow" alt="Profile Views"/></p>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/czr_mutran/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cezar-mutran-5b2323234/)

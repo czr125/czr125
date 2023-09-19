@@ -3,7 +3,6 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/czr_mutran/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cezar-mutran-5b2323234/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](czr_0707)
 
 [![card](https://github-readme-stats.vercel.app/api?username=czr125&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![czr125](https://github-readme-stats.vercel.app/api/top-langs/?username=czr125&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

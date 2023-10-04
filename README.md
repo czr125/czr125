@@ -24,16 +24,25 @@
 
 ### Main skills:
 ![HTML](https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 ![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
-![Bootstrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
 ### Studying at this moment:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![Angular](https://img.shields.io/badge/-angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117)&nbsp;
 ![React](https://img.shields.io/badge/-react-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![VueJS](https://img.shields.io/badge/-vue.js-0D1117?style=for-the-badge&logo=vue.js&labelColor=0D1117)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+
+### Had Experience of:
+![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117)&nbsp;
+![Typescript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
+![Laravel](https://img.shields.io/badge/-laravel-0D1117?style=for-the-badge&logo=laravel&labelColor=0D1117)&nbsp;
+![Flutter](https://img.shields.io/badge/-flutter-0D1117?style=for-the-badge&logo=flutter&labelColor=0D1117)&nbsp;
+![React Native](https://img.shields.io/badge/-react_native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=120&section=footer"/>

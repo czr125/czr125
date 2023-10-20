@@ -31,9 +31,7 @@
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
 ### Studying at this moment:
-![Angular](https://img.shields.io/badge/-angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117)&nbsp;
 ![React](https://img.shields.io/badge/-react-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![VueJS](https://img.shields.io/badge/-vue.js-0D1117?style=for-the-badge&logo=vue.js&labelColor=0D1117)&nbsp;
 
 ### Had Experience with:
 ![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117)&nbsp;

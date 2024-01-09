@@ -39,7 +39,7 @@
 ![Laravel](https://img.shields.io/badge/-laravel-0D1117?style=for-the-badge&logo=laravel&labelColor=0D1117)&nbsp;
 ![Flutter](https://img.shields.io/badge/-flutter-0D1117?style=for-the-badge&logo=flutter&labelColor=0D1117)&nbsp;
 ![React Native](https://img.shields.io/badge/-react_native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![PySpark](https://img.shields.io/badge/-py-spark-0D1117?style=for-the-badge&logo=spark&labelColor=0D1117)&nbsp;
+![Spark](https://img.shields.io/badge/-spark-0D1117?style=for-the-badge&logo=spark&labelColor=0D1117)&nbsp;
 ![Hadoop](https://img.shields.io/badge/-hadoop-0D1117?style=for-the-badge&logo=hadoop&labelColor=0D1117)&nbsp;
 ![Pandas](https://img.shields.io/badge/-pandas-0D1117?style=for-the-badge&logo=pandas&labelColor=0D1117)&nbsp;
 ![Numpy](https://img.shields.io/badge/-numpy-0D1117?style=for-the-badge&logo=numpy&labelColor=0D1117)&nbsp;
